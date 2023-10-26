@@ -575,17 +575,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":61.6672851518306,
-                 "id":12,
-                 "name":"clockPopup",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":192,
-                 "x":1024,
-                 "y":32.0269116471316
-                }, 
-                {
                  "height":120,
                  "id":13,
                  "name":"jitsiExternal",
@@ -854,17 +843,6 @@
                  "width":192,
                  "x":288,
                  "y":160
-                }, 
-                {
-                 "height":128,
-                 "id":29,
-                 "name":"clock",
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":320,
-                 "x":960,
-                 "y":96
                 }, 
                 {
                  "height":128,
